@@ -8,12 +8,12 @@ This is a simple image generator built with Node.js and Express that uses OpenAI
 
 To get started, simply run the following command in your terminal:
 
-npm install
+```npm install```
 
 This will install all the necessary dependencies required for the project to run.
 Next, you can start the application by running:
 
-npm run start
+```npm run start```
 
 
 This will start the application on your local machine and it will be accessible at http://localhost:5000.
