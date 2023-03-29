@@ -1,5 +1,7 @@
 # Dall-E Image Generator
 
+You can try this app in https://pixelmindai.netlify.app/
+
 This is a simple image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images. It has a modern look using React and Vite framework and is styled with Tailwind.css.
 
 ## Getting Started
@@ -14,7 +16,7 @@ Next, you can start the application by running:
 npm run start
 
 
-This will start the application on your local machine and it will be accessible at http://localhost:3000.
+This will start the application on your local machine and it will be accessible at http://localhost:5000.
 
 ## Features
 
